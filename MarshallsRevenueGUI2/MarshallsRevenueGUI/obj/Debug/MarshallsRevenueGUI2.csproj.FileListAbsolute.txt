@@ -1,0 +1,9 @@
+C:\Users\myers\Documents\Visual Studio 2015\Projects\EDU\Fall2017\Advanced-CSharp\MarshallsRevenueGUI2\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.exe.config
+C:\Users\myers\Documents\Visual Studio 2015\Projects\EDU\Fall2017\Advanced-CSharp\MarshallsRevenueGUI2\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.exe
+C:\Users\myers\Documents\Visual Studio 2015\Projects\EDU\Fall2017\Advanced-CSharp\MarshallsRevenueGUI2\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.pdb
+C:\Users\myers\Documents\Visual Studio 2015\Projects\EDU\Fall2017\Advanced-CSharp\MarshallsRevenueGUI2\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI2.csprojResolveAssemblyReference.cache
+C:\Users\myers\Documents\Visual Studio 2015\Projects\EDU\Fall2017\Advanced-CSharp\MarshallsRevenueGUI2\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.Form1.resources
+C:\Users\myers\Documents\Visual Studio 2015\Projects\EDU\Fall2017\Advanced-CSharp\MarshallsRevenueGUI2\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.Properties.Resources.resources
+C:\Users\myers\Documents\Visual Studio 2015\Projects\EDU\Fall2017\Advanced-CSharp\MarshallsRevenueGUI2\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI2.csproj.GenerateResource.Cache
+C:\Users\myers\Documents\Visual Studio 2015\Projects\EDU\Fall2017\Advanced-CSharp\MarshallsRevenueGUI2\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.exe
+C:\Users\myers\Documents\Visual Studio 2015\Projects\EDU\Fall2017\Advanced-CSharp\MarshallsRevenueGUI2\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.pdb
